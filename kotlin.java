@@ -1,6 +1,6 @@
 //the three
 
-var name = "xu"
+var name = "xiong"
 
 //the four
 var age = 18
