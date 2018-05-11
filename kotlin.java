@@ -1,2 +1,2 @@
 //the three
-var name = "zhangsan"
+var name = "zhang"
